@@ -3,7 +3,7 @@ import React from 'react'
 function Akash() {
   return (
     <div>
-      AKASH MASTER
+      AKASH MASTER ihgyghuyy
     </div>
   )
 }
